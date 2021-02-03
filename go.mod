@@ -1,3 +1,3 @@
-module gitlab.shgsec.com/basic-components/daemon
+module github.com/jiashaoying/daemon
 
 go 1.12

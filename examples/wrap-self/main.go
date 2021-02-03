@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"gitlab.shgsec.com/basic-components/daemon"
+	"github.com/jiashaoying/daemon"
 	"log"
 	"os"
 	"os/signal"
